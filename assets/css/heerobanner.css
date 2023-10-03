@@ -1,0 +1,112 @@
+.hereor-section {
+	padding: 0px 20px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.heror-left-side {
+	width: 54%;
+	padding: 0px 38px 0px 0px;
+}
+.hero-right-side {
+	width: 46%;
+	background-color: gainsboro;
+	display: flex;
+	flex-wrap: wrap;
+}
+.heror-center-side {
+	width: 50%;
+	background-color: #a8a8b6;
+	position: relative;
+}
+.hero-center-banner {
+	position: absolute;
+	top: 39px;
+	color: white;
+	text-align: center;
+	left: 51px;
+}
+.text-button a {
+	color: white;
+	line-height: 32px;
+}
+.discount_title {
+	font-size: 15px;
+	line-height: 17px;
+}
+.slide-banner-title {
+	font-size: 25px;
+	line-height: 30px;
+	font-family: sans-serif;
+}
+.hero-imgbox-right {
+	width: 50%;
+	height: 100%;
+	display: grid;
+	grid-row-gap: 10px;
+	grid-auto-flow: row;
+}
+
+.image-banner img {
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.hero-innerbox {
+	padding: 0px 20px;
+	position: relative;
+}
+.image-banner {
+	width: 100%;
+	height: 100%;
+}
+.subbanner-customs {
+	top: 48px;
+	position: absolute;
+	left: 37px;
+	color: white;
+	font-size: 15px;
+	font-family: inherit;
+}
+/* Services Section */
+section {
+	padding: 50px 0px;
+}
+.service-img {
+	text-align: center;
+}
+.servvices-content {
+	width: 33%;
+	margin: auto;
+}
+section {
+	padding: 100px 0px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.servvices-content {
+	width: 33%;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.service-description {
+	text-align: center;
+	font-size: 15px;
+	font-family: sans-serif;
+	padding: 13px;
+}
+.service-subtitle {
+	padding: 5px 82px;
+	line-height: 2;
+}
+.service-title:hover {
+	color: #295ac3;
+}
+.service-title {
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: 700;
+}

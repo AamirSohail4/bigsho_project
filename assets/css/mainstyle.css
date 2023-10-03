@@ -1,0 +1,12 @@
+.list-menu--inline .list-menu--disclosure {
+	/* transform-origin: 20% 20% 0; */
+	/* -webkit-transition: all .5s ease 0s; */
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	/* transition: all .5s ease 0s; */
+	/* -webkit-transform: scaleY(.6); */
+	-ms-transform: scaleY(0.6);
+	/* transform: scaleY(.6); */
+	/* opacity: 0; */
+	filter: alpha(opacity=0);
+}
